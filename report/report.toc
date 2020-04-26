@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}1D-DCT \& 2D-DCT}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Principle}{1}{subsection.1.1}%
+\contentsline {paragraph}{1D-DCT}{1}{paragraph*.2}%
+\contentsline {paragraph}{2D-DCT}{1}{paragraph*.3}%
+\contentsline {subsection}{\numberline {1.2}Results}{2}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Comparison between two trials}{2}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Different Coefficients}{3}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Different Block Size}{3}{subsubsection.1.2.3}%
+\contentsline {section}{\numberline {2}Quantization}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Principle}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Results}{6}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}With and Without Quantization}{6}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Different A and Q}{6}{subsubsection.2.2.2}%
+\contentsline {paragraph}{A}{6}{paragraph*.14}%
+\contentsline {paragraph}{Q}{6}{paragraph*.15}%
+\contentsline {section}{\numberline {3}Conclusion}{8}{section.3}%
